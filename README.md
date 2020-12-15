@@ -13,3 +13,4 @@ Submitted by: Nguyen Nhat Khoa
   - Create User database by gem devise and update users views.
   - Create Payment database, update payment model and form for creadit card.
   - Use some js file and add stripe payment for users.
+  - Add image picture uploader action.
