@@ -1,24 +1,15 @@
-# README
+# Photo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, my name is Nhat Khoa Nguyen.
 
-Things you may want to cover:
+This is my Ruby on Rails Photo app.
+url:
 
-* Ruby version
+Submitted by: Nguyen Nhat Khoa
 
-* System dependencies
+  Steps taken:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  - Build home page and update layout view.
+  - Create User database by gem devise and update users views.
+  - Create Payment database, update payment model and form for creadit card.
+  - Use some js file and add stripe payment for users.
