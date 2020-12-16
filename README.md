@@ -1,16 +1,10 @@
-# Photo App
+## User Stories
 
-Hello, my name is Nhat Khoa Nguyen.
+This is my Ruby on Rails PhotoApp.
+Submitted by: Nguyen Nhat Khoa.
+I'm building this app to learn Ruby on rails.
+Need to pay to create a User
 
-This is my Ruby on Rails Photo app.
-url:
-
-Submitted by: Nguyen Nhat Khoa
-
-  Steps taken:
-
-  - Build home page and update layout view.
-  - Create User database by gem devise and update users views.
-  - Create Payment database, update payment model and form for creadit card.
-  - Use some js file and add stripe payment for users.
-  - Add image picture uploader action.
+## User Stories
+The following **required** functionality is completed:
+- [X] User can update picture to app.
